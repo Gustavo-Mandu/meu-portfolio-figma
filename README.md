@@ -1,4 +1,4 @@
-# Meu Portfólio de Projetos UI/UX do Figma
+# Meu Portfólio de Projetos UI/UX
 
 ### Clique no nome do projeto para vê-lo no Figma
 <hr>
