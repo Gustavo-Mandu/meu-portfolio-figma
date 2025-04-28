@@ -1,8 +1,8 @@
-# Meu Portfólio de Projetos Figma
-Meus projetos UI/UX do Figma
+# Meu Portfólio de Projetos UI/UX do Figma
 
 ## Projetos 
-## Clique no nome do projeto para ver no Figma
+
+### Clique no nome do projeto para vê-lo no Figma
 <hr>
 
 ## [Projeto 1 - Landing Page de Venda de Casas](https://www.figma.com/design/9FE36vv39loTbSUk2bSWLH/AtividadePrototipo1?node-id=0-1&t=ysVUSanRFxhDrD43-1)
