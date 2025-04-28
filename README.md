@@ -13,21 +13,21 @@
 
 ## [Projeto 3 - App Mobile de Venda de Alimentos](https://www.figma.com/design/WXKSDjki4U1tWt7BRrLgKD/AtividadePrototipo3?t=ysVUSanRFxhDrD43-1)
 <p align="left">
-<img src="images/AtividadePrototipo3/SplashScreen.jpg" alt="Preview do Projeto 3" width="200px">
+<img src="images/AtividadePrototipo3/SplashScreen.jpg" alt="Preview do Projeto 3" width="180px">
  &nbsp; 
-<img src="images/AtividadePrototipo3/LoginPage.jpg" alt="Preview do Projeto 3" width="200px">
+<img src="images/AtividadePrototipo3/LoginPage.jpg" alt="Preview do Projeto 3" width="180px">
  &nbsp; 
-<img src="images/AtividadePrototipo3/SignUpPage.jpg" alt="Preview do Projeto 3" width="200px">
+<img src="images/AtividadePrototipo3/SignUpPage.jpg" alt="Preview do Projeto 3" width="180px">
  &nbsp; 
-<img src="images/AtividadePrototipo3/HomePage.jpg" alt="Preview do Projeto 3" width="200px">
+<img src="images/AtividadePrototipo3/HomePage.jpg" alt="Preview do Projeto 3" width="180px">
 </p>
 <hr>
 
 ## [Projeto 4 - App Mobile de Fast Food](https://www.figma.com/design/PS5u80JIjEzh8KeWrCHHNc/AtividadePrototipo4?t=ysVUSanRFxhDrD43-1)
 <p align="left">
-<img src="images/AtividadePrototipo4/iPhone13&14_1.jpg" alt="Preview do Projeto 4" width="200px">
-<img src="images/AtividadePrototipo4/iPhone13&14_2.jpg" alt="Preview do Projeto 4" width="200px">
-<img src="images/AtividadePrototipo4/iPhone13&14_3.jpg" alt="Preview do Projeto 4" width="200px">
+<img src="images/AtividadePrototipo4/iPhone13&14_1.jpg" alt="Preview do Projeto 4" width="180px">
+<img src="images/AtividadePrototipo4/iPhone13&14_2.jpg" alt="Preview do Projeto 4" width="180px">
+<img src="images/AtividadePrototipo4/iPhone13&14_3.jpg" alt="Preview do Projeto 4" width="180px">
 </p>
 <hr>
 
@@ -45,13 +45,13 @@
 
 ## [Projeto 7 - App Mobile para Lista de Tarefas](https://www.figma.com/design/JU5Ki9Or6Y6tqRK3nef0FT/AtividadePrototipo7?t=wZGzEPuWuwmpAQjm-1)
 <p align="left">
-<img src="images/AtividadePrototipo7/SplashScreen.jpg" alt="Preview do Projeto 7" width="200px">
+<img src="images/AtividadePrototipo7/SplashScreen.jpg" alt="Preview do Projeto 7" width="180px">
  &nbsp; 
-<img src="images/AtividadePrototipo7/Login.jpg" alt="Preview do Projeto 7" width="200px">
+<img src="images/AtividadePrototipo7/Login.jpg" alt="Preview do Projeto 7" width="180px">
  &nbsp; 
-<img src="images/AtividadePrototipo7/Registration.jpg" alt="Preview do Projeto 7" width="200px">
+<img src="images/AtividadePrototipo7/Registration.jpg" alt="Preview do Projeto 7" width="180px">
  &nbsp; 
-<img src="images/AtividadePrototipo7/Dashboard.jpg" alt="Preview do Projeto 7" width="200px">
+<img src="images/AtividadePrototipo7/Dashboard.jpg" alt="Preview do Projeto 7" width="180px">
 </p>
 <hr>
 
