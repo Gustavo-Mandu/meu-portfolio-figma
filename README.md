@@ -52,7 +52,7 @@ Meus projetos UI/UX do Figma
  &nbsp; 
 <img src="images/AtividadePrototipo7/Registration.jpg" alt="Preview do Projeto 7" width="200px">
  &nbsp; 
-<img src="images/AtividadePrototipo6/Dashboard.jpg" alt="Preview do Projeto 7" width="200px">
+<img src="images/AtividadePrototipo7/Dashboard.jpg" alt="Preview do Projeto 7" width="200px">
 </p>
 <hr>
 
