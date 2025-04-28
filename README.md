@@ -1,7 +1,5 @@
 # Meu Portfólio de Projetos UI/UX do Figma
 
-## Projetos 
-
 ### Clique no nome do projeto para vê-lo no Figma
 <hr>
 
