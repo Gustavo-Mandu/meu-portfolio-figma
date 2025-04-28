@@ -4,7 +4,7 @@ Meus projetos UI/UX do Figma
 ## Projetos
 <hr>
 
-- [Projeto 1 - Landing Page de Venda de Casas](https://www.figma.com/design/9FE36vv39loTbSUk2bSWLH/AtividadePrototipo1?node-id=0-1&t=ysVUSanRFxhDrD43-1)
+- #[Projeto 1 - Landing Page de Venda de Casas](https://www.figma.com/design/9FE36vv39loTbSUk2bSWLH/AtividadePrototipo1?node-id=0-1&t=ysVUSanRFxhDrD43-1)
 <img src="images/AtividadePrototipo1.jpg" alt="Preview do Projeto 1" width="250px">
 <hr>
 
